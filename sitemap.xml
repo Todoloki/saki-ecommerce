@@ -1,11 +1,22 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
   <url>
     <loc>https://www.saki-ecommerce.com/</loc>
+  </url>
+  <url>
     <loc>https://www.saki-ecommerce.com/#/contact-us</loc>
-    <loc>https://www.saki-ecommerce.com/#/waterproof-zipper</loc>
+  </url>
+  <url>
     <loc>https://www.saki-ecommerce.com/#/nylon-zipper</loc>
+  </url>
+  <url>
     <loc>https://www.saki-ecommerce.com/#/metal-zipper</loc>
+  </url>
+  <url>
+    <loc>https://www.saki-ecommerce.com/#/waterproof-zipper</loc>
+  </url>
+  <url>
     <loc>https://www.saki-ecommerce.com/#/plastic-zipper</loc>
   </url>
 </urlset>
